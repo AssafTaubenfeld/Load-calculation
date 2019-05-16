@@ -8,8 +8,8 @@ Let G = <V, E> be an undirected graph. Let X ∈ V.
 
 Load(X) = 
 
- for each A in V
+   for each A in V
  
-  for each B (not equal to X) in V
+       for each B (not equal to X) in V
   
-    Number of shortest paths from A to B that pass through X / Numer of shortest paths from A to B. 
+             Number of shortest paths from A to B that pass through X / Numer of shortest paths from A to B. 
